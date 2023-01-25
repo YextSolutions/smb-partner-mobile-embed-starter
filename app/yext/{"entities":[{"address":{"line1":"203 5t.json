@@ -1,0 +1,1234 @@
+{
+  "entities": [
+    {
+      "address": {
+        "line1": "203 5th Ave",
+        "city": "New York",
+        "region": "NY",
+        "postalCode": "10010",
+        "countryCode": "US"
+      },
+      "addressHidden": false,
+      "description": "Some stuff",
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        },
+        "description": "Wine!"
+      },
+      "name": "Willow Wineries",
+      "cityCoordinate": { "latitude": 40.757929, "longitude": -73.985506 },
+      "closed": true,
+      "c_numberOfCashRegisters": "12",
+      "c_testPhotoForGeneration": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "sourceUrl": "http://oncloudwineonline.com/yahoo_site_admin/assets/images/heart-wine-valentine-500.6100547_std.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/450x450.jpg",
+              "width": 450,
+              "height": 450
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/196x196.jpg",
+              "width": 196,
+              "height": 196
+            }
+          ]
+        }
+      },
+      "displayCoordinate": { "latitude": 40.7427062, "longitude": -73.9885903 },
+      "bios": { "ids": ["1192033"] },
+      "menus": { "ids": ["821652", "1185965"] },
+      "facebookCoverPhoto": {
+        "url": "http://a.mktgcdn.com/p/xAgLC5QDfK2wjHkER1UR6qNAfYxfuZoSoi_hsimm0hw/720x266.jpg",
+        "width": 720,
+        "height": 266,
+        "sourceUrl": "https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17523166_1005309869604086_842261701020821034_n.jpg?oh=b244a958e1a6cfe26b6b4f7059e5c7af&oe=59D62FE1"
+      },
+      "facebookDescriptor": "Mahnattan",
+      "facebookParentPageId": "1093280647407406",
+      "facebookProfilePhoto": {
+        "url": "http://a.mktgcdn.com/p/UtRFumPdVyPv7LpftCkAa7lPUEcnnqLncSDgSMGGbUA/200x200.jpg",
+        "width": 200,
+        "height": 200,
+        "sourceUrl": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/17796104_1005309526270787_2281400363021901196_n.jpg?oh=bfa9fb9d877aae20886098e9cfd17166&oe=59E89102"
+      },
+      "featuredMessage": { "description": "Call Today!" },
+      "geocodedCoordinate": {
+        "latitude": 40.7427062,
+        "longitude": -73.9885903
+      },
+      "googleAccountId": "116796926224192131535",
+      "isoRegionCode": "NY",
+      "mainPhone": "+13472012419",
+      "rankTrackingCompetitors": [
+        { "name": "Barbounia", "website": "http://barbounia.com" },
+        { "name": "ABC Cocina", "website": "https://www.jean-georges.com" },
+        {
+          "name": "Beecher's Handmade Cheese",
+          "website": "http://beechershandmadecheese.com"
+        },
+        {
+          "name": "Giorgio's of Gramercy",
+          "website": "https://giorgiosofgramercy.com"
+        },
+        {
+          "name": "SUGARFISH by sushi nozawa",
+          "website": "https://sugarfishsushi.com"
+        }
+      ],
+      "customKeywords": ["Wine", "Rose", "Merlot", "Cabernet", "Malbec"],
+      "rankTrackingFrequency": "QUARTERLY",
+      "rankTrackingKeywords": ["NAME", "PRIMARY_CATEGORY"],
+      "rankTrackingQueryTemplates": [
+        "KEYWORD",
+        "KEYWORD_IN_CITY",
+        "KEYWORD_NEAR_ME",
+        "KEYWORD_CITY_STATE"
+      ],
+      "rankTrackingSites": [
+        "GOOGLE_DESKTOP",
+        "GOOGLE_MOBILE",
+        "BING_DESKTOP",
+        "YAHOO_DESKTOP"
+      ],
+      "routableCoordinate": {
+        "latitude": 40.741340661105184,
+        "longitude": -73.98972103934267
+      },
+      "timezone": "America/New_York",
+      "twitterHandle": "jon",
+      "yextDisplayCoordinate": {
+        "latitude": 40.74275491792796,
+        "longitude": -73.98850086144847
+      },
+      "yextRoutableCoordinate": {
+        "latitude": 40.741340661105184,
+        "longitude": -73.98972103934267
+      },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "NrN78Z",
+        "id": "4834840175640395538",
+        "timestamp": "2021-11-30T18:38:32",
+        "labels": ["28905", "listing"],
+        "folderId": "329471",
+        "language": "en",
+        "countryCode": "US",
+        "entityType": "location"
+      },
+      "categoryIds": ["600"],
+      "reviewGenerationUrl": "https://www.leavefeedback.app/tp/yjVzPq",
+      "firstPartyReviewPage": "https://www.leavefeedback.app/survey/yjVzPq",
+      "timeZoneUtcOffset": "-04:00"
+    },
+    {
+      "address": {
+        "line1": "1060 W Addison",
+        "city": "Chicago",
+        "region": "IL",
+        "postalCode": "60613",
+        "countryCode": "US"
+      },
+      "addressHidden": false,
+      "description": "English!!!!!!",
+      "hours": {
+        "monday": { "openIntervals": [{ "start": "00:00", "end": "23:59" }] },
+        "tuesday": { "openIntervals": [{ "start": "00:00", "end": "23:59" }] },
+        "wednesday": {
+          "openIntervals": [{ "start": "00:00", "end": "23:59" }]
+        },
+        "thursday": { "openIntervals": [{ "start": "00:00", "end": "23:59" }] },
+        "friday": { "openIntervals": [{ "start": "00:00", "end": "23:59" }] },
+        "saturday": { "openIntervals": [{ "start": "00:00", "end": "23:59" }] },
+        "sunday": { "openIntervals": [{ "start": "00:00", "end": "23:59" }] }
+      },
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/f3LQBvHxvmbbs4bkvTR9uhRWIOd8sSxSWvpF__LU-VE/800x800.jpg",
+          "width": 800,
+          "height": 800,
+          "sourceUrl": "https://cdn.vox-cdn.com/thumbor/EmsZjtjVt4mcZo46fyc-LonZxd4=/44x0:456x309/1200x800/filters:focal(44x0:456x309)/cdn.vox-cdn.com/uploads/chorus_image/image/38980112/Wrigley-500.0.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/f3LQBvHxvmbbs4bkvTR9uhRWIOd8sSxSWvpF__LU-VE/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/f3LQBvHxvmbbs4bkvTR9uhRWIOd8sSxSWvpF__LU-VE/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        }
+      },
+      "name": "Wrigley Field",
+      "cityCoordinate": { "latitude": 41.879535, "longitude": -87.624333 },
+      "displayCoordinate": {
+        "latitude": 41.9476342884958,
+        "longitude": -87.6563863532374
+      },
+      "bios": { "ids": ["1192033"] },
+      "menus": { "ids": ["821652", "1185965"] },
+      "featuredMessage": { "description": "test stufffff" },
+      "photoGallery": [
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/Ot-PvG8oSQ5nYpv8ydLhYL40faZjS6gyAQt0BXL6BKo/915x558.jpg",
+            "width": 915,
+            "height": 558,
+            "sourceUrl": "http://www.ballparksofbaseball.com/wp-content/uploads/2016/03/wrigley16954.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/Ot-PvG8oSQ5nYpv8ydLhYL40faZjS6gyAQt0BXL6BKo/619x377.jpg",
+                "width": 619,
+                "height": 377
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/Ot-PvG8oSQ5nYpv8ydLhYL40faZjS6gyAQt0BXL6BKo/600x365.jpg",
+                "width": 600,
+                "height": 365
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/Ot-PvG8oSQ5nYpv8ydLhYL40faZjS6gyAQt0BXL6BKo/196x119.jpg",
+                "width": 196,
+                "height": 119
+              }
+            ]
+          }
+        }
+      ],
+      "geocodedCoordinate": {
+        "latitude": 41.9474536,
+        "longitude": -87.6561341
+      },
+      "googleAccountId": "109246389528522575311",
+      "isoRegionCode": "IL",
+      "mainPhone": "+17734042827",
+      "rankTrackingFrequency": "QUARTERLY",
+      "routableCoordinate": {
+        "latitude": 41.94724727492948,
+        "longitude": -87.65631929801202
+      },
+      "timezone": "America/Chicago",
+      "yextDisplayCoordinate": {
+        "latitude": 41.9476342884958,
+        "longitude": -87.6563863532374
+      },
+      "yextRoutableCoordinate": {
+        "latitude": 41.94724727492948,
+        "longitude": -87.65631929801202
+      },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "mPrBWd",
+        "id": "249087021638341339",
+        "timestamp": "2022-07-12T14:05:43",
+        "folderId": "273283",
+        "language": "en",
+        "countryCode": "US",
+        "entityType": "location"
+      },
+      "categoryIds": ["259"],
+      "reviewGenerationUrl": "https://www.leavefeedback.app/tp/AmxPbR",
+      "firstPartyReviewPage": "https://www.leavefeedback.app/survey/AmxPbR",
+      "timeZoneUtcOffset": "-05:00"
+    },
+    {
+      "frequentlyAskedQuestions": [
+        {
+          "question": "ndkdn;kfjs;gfdjg;kldfsj;lk",
+          "answer": "dsaklfk;dsajfl;ksdaj;lkfjasdl;fj;asd"
+        }
+      ],
+      "landingPageUrl": "https://kmslocations.landingpagesprod.yextengtest.com/awesome-restaurant-44b49b21cbe0",
+      "serviceAreaPlaces": [{ "name": "Test" }],
+      "additionalHoursText": "We have additional hours",
+      "address": {
+        "line1": "1 Madison Ave",
+        "city": "New York",
+        "region": "NY",
+        "postalCode": "10010",
+        "countryCode": "US"
+      },
+      "addressHidden": false,
+      "description": "[[name]] is great!",
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/jg8TwFXAcwMgqpys0DKrgMbdG1BurM7Ct_6Sstef7Sk/1.0000/626x626.jpg",
+          "width": 626,
+          "height": 626,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/jg8TwFXAcwMgqpys0DKrgMbdG1BurM7Ct_6Sstef7Sk/1.0000/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/jg8TwFXAcwMgqpys0DKrgMbdG1BurM7Ct_6Sstef7Sk/1.0000/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        }
+      },
+      "name": "Completely Different Place",
+      "cityCoordinate": { "latitude": 40.708601, "longitude": -73.876717 },
+      "closed": false,
+      "menus": { "label": "Calvin Burger", "ids": ["821652"] },
+      "facebookCoverPhoto": {
+        "url": "https://a.mktgcdn.com/p/f_8n6sK7rvs6QeangYMovtEunrEGZQ7_2qV_GIptJfc/2560x1600.jpg",
+        "width": 2560,
+        "height": 1600
+      },
+      "facebookPageUrl": "https://www.facebook.com/105695238758696",
+      "facebookProfilePhoto": {
+        "url": "http://a.mktgcdn.com/p/o-h_CAy1rtVgBXPRNwC6D3fAs7Z_cCUyWSY_PaunjF0/200x200.jpg",
+        "width": 200,
+        "height": 200
+      },
+      "featuredMessage": { "description": "Get yo Matcha fix" },
+      "geocodedCoordinate": {
+        "latitude": 40.7410895,
+        "longitude": -73.98750919999999
+      },
+      "googleAccountId": "116796926224192131535",
+      "isoRegionCode": "NY",
+      "mainPhone": "+13126175433",
+      "rankTrackingCompetitors": [
+        {
+          "name": "SottoCasa Pizzeria",
+          "website": "http://www.sottocasanyc.com"
+        },
+        { "name": "Per Se", "website": "https://www.thomaskeller.com/perseny" },
+        { "name": "Blue Hill", "website": "https://www.bluehillfarm.com" },
+        {
+          "name": "Club A Steakhouse",
+          "website": "http://www.clubasteakhouse.com"
+        },
+        { "name": "Spice Symphony", "website": "http://www.spicesymphony.com" }
+      ],
+      "rankTrackingFrequency": "QUARTERLY",
+      "serviceArea": { "places": ["Test"] },
+      "timezone": "America/New_York",
+      "websiteUrl": {
+        "url": "https://conversion-tracking.pagescdn.com/conversion-tracking-restaurant-6524a8d56d04",
+        "displayUrl": "https://conversion-tracking.pagescdn.com/conversion-tracking-restaurant-6524a8d56d04",
+        "preferDisplayUrl": false
+      },
+      "yextDisplayCoordinate": {
+        "latitude": 40.74109304722501,
+        "longitude": -73.98750225346579
+      },
+      "yextRoutableCoordinate": {
+        "latitude": 40.741218330426975,
+        "longitude": -73.98780177585371
+      },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "O5QaAl",
+        "id": "2738198737261685819",
+        "timestamp": "2022-09-22T18:51:44",
+        "labels": ["25738", "27319", "98773"],
+        "folderId": "329471",
+        "language": "en",
+        "countryCode": "US",
+        "entityType": "location"
+      },
+      "categoryIds": ["152"],
+      "reviewGenerationUrl": "https://www.leavefeedback.app/tp/NPOZzN",
+      "firstPartyReviewPage": "https://www.leavefeedback.app/survey/NPOZzN",
+      "timeZoneUtcOffset": "-04:00"
+    },
+    {
+      "landingPageUrl": "https://kmslocations.landingpagesprod.yextengtest.com/colosseo-a4f56c1623f6",
+      "additionalHoursText": "We have additional hours",
+      "address": {
+        "line1": "Piazza del Colosseo, 1",
+        "city": "Rome",
+        "postalCode": "00184",
+        "countryCode": "IT"
+      },
+      "addressHidden": false,
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/tHBGAuXEhb8BebX6M42d18Ab5dbPS3x_CpjwAS8JQ0I/293x293.jpg",
+          "width": 293,
+          "height": 293,
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/tHBGAuXEhb8BebX6M42d18Ab5dbPS3x_CpjwAS8JQ0I/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/tHBGAuXEhb8BebX6M42d18Ab5dbPS3x_CpjwAS8JQ0I/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        }
+      },
+      "name": "Colosseo",
+      "cityCoordinate": { "latitude": 41.9027835, "longitude": 12.4963655 },
+      "c_shortDescription": "This is a place, a wonderful place, with wonderful qualities.",
+      "featuredMessage": { "description": "Some stuff" },
+      "geocodedCoordinate": { "latitude": 41.8900275, "longitude": 12.4939171 },
+      "googleAccountId": "109246389528522575311",
+      "isoRegionCode": "RM",
+      "mainPhone": "+390639967700",
+      "customKeywords": ["test", "test2", "test 3", "test 4", "test 5"],
+      "rankTrackingEnabled": true,
+      "rankTrackingFrequency": "QUARTERLY",
+      "rankTrackingQueryTemplates": ["KEYWORD", "KEYWORD_ZIP"],
+      "timezone": "Europe/Rome",
+      "websiteUrl": { "url": "[[landingPageUrl]]" },
+      "yextDisplayCoordinate": {
+        "latitude": 41.8900275,
+        "longitude": 12.4939171
+      },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "jjGOEZ",
+        "id": "5741563527571536054",
+        "timestamp": "2022-07-13T18:43:43",
+        "labels": ["98773"],
+        "folderId": "273285",
+        "language": "it",
+        "countryCode": "IT",
+        "entityType": "location"
+      },
+      "categoryIds": ["648"],
+      "reviewGenerationUrl": "https://www.leavefeedback.app/tp/xDn0kV",
+      "firstPartyReviewPage": "https://www.leavefeedback.app/survey/xDn0kV",
+      "timeZoneUtcOffset": "+02:00"
+    },
+    {
+      "additionalHoursText": "We have additional hours",
+      "address": {
+        "line1": "1 Madison Ave",
+        "line2": "5th Floor",
+        "city": "New York",
+        "region": "NY",
+        "postalCode": "10010",
+        "countryCode": "US"
+      },
+      "addressHidden": false,
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "sourceUrl": "http://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/500x500.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/500x500.jpg",
+              "width": 500,
+              "height": 500
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        }
+      },
+      "name": "Dr. Calvin Casalino",
+      "certifications": ["ABMS Board Certified"],
+      "cityCoordinate": { "latitude": 40.757929, "longitude": -73.985506 },
+      "conditionsTreated": [
+        "Depression",
+        "Allergies",
+        "Insomnia",
+        "Physical Examination",
+        "Pneumonia",
+        "Rashes",
+        "Cough",
+        "Heart Disease",
+        "Hypertension"
+      ],
+      "c_relatedLocations": [{ "entity": ["12341232"] }],
+      "bios": { "ids": ["1192033"] },
+      "educationList": [
+        {
+          "type": "MEDICAL_SCHOOL",
+          "institutionName": "Columbia",
+          "yearCompleted": 2015
+        }
+      ],
+      "emails": ["calvincasalino@gmail.com"],
+      "facebookCoverPhoto": {
+        "url": "http://a.mktgcdn.com/p/Ay5S73C4392lnSZxoEUQaBV6EurmqvLt2ZZXz5adiss/1000x664.jpg",
+        "width": 1000,
+        "height": 664,
+        "thumbnails": [
+          {
+            "url": "https://a.mktgcdn.com/p/Ay5S73C4392lnSZxoEUQaBV6EurmqvLt2ZZXz5adiss/1000x664.jpg",
+            "width": 1000,
+            "height": 664
+          }
+        ]
+      },
+      "facebookPageUrl": "https://www.facebook.com/718796338470213",
+      "facebookProfilePhoto": {
+        "url": "http://a.mktgcdn.com/p/TxcXxFX2yQGs_6GFzpYFhyuvT28tbjpo2V_dg1cze2U/914x914.png",
+        "width": 914,
+        "height": 914,
+        "thumbnails": [
+          {
+            "url": "https://a.mktgcdn.com/p/TxcXxFX2yQGs_6GFzpYFhyuvT28tbjpo2V_dg1cze2U/914x914.png",
+            "width": 914,
+            "height": 914
+          }
+        ]
+      },
+      "featuredMessage": { "description": "Cardiology!" },
+      "firstName": "Calvin",
+      "photoGallery": [
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/wQPqMXJ9rMayd0JVMiSEP7VvUG3WJywWCFSY-7XvtgQ/223x226.jpg",
+            "width": 223,
+            "height": 226,
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/wQPqMXJ9rMayd0JVMiSEP7VvUG3WJywWCFSY-7XvtgQ/223x226.jpg",
+                "width": 223,
+                "height": 226
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/wQPqMXJ9rMayd0JVMiSEP7VvUG3WJywWCFSY-7XvtgQ/196x198.jpg",
+                "width": 196,
+                "height": 198
+              }
+            ]
+          }
+        }
+      ],
+      "gender": "UNSPECIFIED",
+      "geocodedCoordinate": { "latitude": 40.741102, "longitude": -73.9874531 },
+      "googleAccountId": "116796926224192131535",
+      "degrees": ["WHNP"],
+      "isoRegionCode": "NY",
+      "lastName": "Casalino",
+      "mainPhone": "+13126179607",
+      "menuUrl": {
+        "url": "http://www.yext.com",
+        "displayUrl": "http://www.yext.com",
+        "preferDisplayUrl": false
+      },
+      "npi": "1861669814",
+      "orderUrl": {
+        "url": "http://www.yext.com",
+        "displayUrl": "http://www.yext.com",
+        "preferDisplayUrl": false
+      },
+      "rankTrackingFrequency": "QUARTERLY",
+      "reservationUrl": {
+        "url": "http://www.yext.com",
+        "displayUrl": "http://www.yext.com",
+        "preferDisplayUrl": false
+      },
+      "timezone": "America/New_York",
+      "websiteUrl": {
+        "url": "https://conversion-tracking.pagescdn.com/conversion-tracking-restaurant-6524a8d56d04",
+        "displayUrl": "https://conversion-tracking.pagescdn.com/conversion-tracking-restaurant-6524a8d56d04",
+        "preferDisplayUrl": false
+      },
+      "yextDisplayCoordinate": {
+        "latitude": 40.741102,
+        "longitude": -73.9874531
+      },
+      "yextRoutableCoordinate": {
+        "latitude": 40.741197,
+        "longitude": -73.987742
+      },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "QgJbd5",
+        "id": "5607413013086657472",
+        "timestamp": "2022-03-11T17:12:43",
+        "labels": ["27319", "98773"],
+        "folderId": "329471",
+        "language": "en",
+        "countryCode": "US",
+        "entityType": "healthcareProfessional"
+      },
+      "categoryIds": ["1505881"],
+      "reviewGenerationUrl": "https://www.leavefeedback.app/tp/kpXyMP",
+      "firstPartyReviewPage": "https://www.leavefeedback.app/survey/kpXyMP",
+      "timeZoneUtcOffset": "-04:00"
+    },
+    {
+      "additionalHoursText": "We have additional hours",
+      "address": {
+        "line1": "50 W 30th St",
+        "line2": "4D",
+        "city": "New York",
+        "region": "NY",
+        "postalCode": "10001",
+        "countryCode": "US"
+      },
+      "addressHidden": false,
+      "description": "Jamie Smith does hardware.",
+      "hours": {
+        "monday": {
+          "openIntervals": [{ "start": "09:00", "end": "17:00" }],
+          "isClosed": false
+        },
+        "tuesday": {
+          "openIntervals": [{ "start": "09:00", "end": "17:00" }],
+          "isClosed": false
+        },
+        "wednesday": {
+          "openIntervals": [{ "start": "09:00", "end": "17:00" }],
+          "isClosed": false
+        },
+        "thursday": {
+          "openIntervals": [{ "start": "09:00", "end": "17:00" }],
+          "isClosed": false
+        },
+        "friday": {
+          "openIntervals": [{ "start": "09:00", "end": "17:00" }],
+          "isClosed": false
+        },
+        "saturday": {
+          "openIntervals": [{ "start": "09:00", "end": "17:00" }],
+          "isClosed": false
+        },
+        "sunday": {
+          "openIntervals": [{ "start": "09:00", "end": "17:00" }],
+          "isClosed": false
+        }
+      },
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/TuqymnLCGm4NWXEV31jM95aX6s1IvKVgJR6A4yvIJPY/3455x3455.jpg",
+          "width": 3455,
+          "height": 3455,
+          "sourceUrl": "http://a.mktgcdn.com/p/TuqymnLCGm4NWXEV31jM95aX6s1IvKVgJR6A4yvIJPY/3455x3455.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/TuqymnLCGm4NWXEV31jM95aX6s1IvKVgJR6A4yvIJPY/1900x1900.jpg",
+              "width": 1900,
+              "height": 1900
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/TuqymnLCGm4NWXEV31jM95aX6s1IvKVgJR6A4yvIJPY/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/TuqymnLCGm4NWXEV31jM95aX6s1IvKVgJR6A4yvIJPY/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        }
+      },
+      "name": "Really Cool Business",
+      "cityCoordinate": { "latitude": 40.757929, "longitude": -73.985506 },
+      "closed": false,
+      "displayCoordinate": { "latitude": 40.7470495, "longitude": -73.9895252 },
+      "bios": { "ids": ["1192033"] },
+      "menus": { "ids": ["821652", "1185965"] },
+      "facebookCoverPhoto": {
+        "url": "http://a.mktgcdn.com/p/cCDknOLbSuIVzsWkzbYCcxEIPOk1fkB1l0xjYizXyuE/940x627.png",
+        "width": 940,
+        "height": 627
+      },
+      "facebookPageUrl": "https://www.facebook.com/Jamie-Smiths-Hardware-Store-2250926451886914/",
+      "facebookProfilePhoto": {
+        "url": "http://a.mktgcdn.com/p/TuqymnLCGm4NWXEV31jM95aX6s1IvKVgJR6A4yvIJPY/3455x3455.jpg",
+        "width": 3455,
+        "height": 3455
+      },
+      "featuredMessage": { "description": "Call Today!" },
+      "photoGallery": [
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/cCDknOLbSuIVzsWkzbYCcxEIPOk1fkB1l0xjYizXyuE/940x627.png",
+            "width": 940,
+            "height": 627,
+            "sourceUrl": "http://a.mktgcdn.com/p/cCDknOLbSuIVzsWkzbYCcxEIPOk1fkB1l0xjYizXyuE/940x627.png",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/cCDknOLbSuIVzsWkzbYCcxEIPOk1fkB1l0xjYizXyuE/619x412.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/cCDknOLbSuIVzsWkzbYCcxEIPOk1fkB1l0xjYizXyuE/600x400.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/cCDknOLbSuIVzsWkzbYCcxEIPOk1fkB1l0xjYizXyuE/196x130.png"
+              }
+            ]
+          }
+        },
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/dFGdN-V56cwTzWY7jDCLjDoA5hr30Wn_W-w0ssWsl7M/480x338.png",
+            "width": 480,
+            "height": 338,
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/dFGdN-V56cwTzWY7jDCLjDoA5hr30Wn_W-w0ssWsl7M/196x138.png"
+              }
+            ]
+          }
+        },
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/PvkhfOWognN7wJZCGczMBCT1A6IpXdqkTFwqFlEs3WU/1597x954.png",
+            "alternateText": "oirjvoi34je",
+            "width": 1597,
+            "height": 954,
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/PvkhfOWognN7wJZCGczMBCT1A6IpXdqkTFwqFlEs3WU/619x369.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/PvkhfOWognN7wJZCGczMBCT1A6IpXdqkTFwqFlEs3WU/600x358.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/PvkhfOWognN7wJZCGczMBCT1A6IpXdqkTFwqFlEs3WU/196x117.png"
+              }
+            ]
+          },
+          "clickthroughUrl": "http://rojvo3i.com",
+          "description": "photo",
+          "details": "photo"
+        },
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/J4vqGEwvbmdKkojO_NqkyFaxeQdOD1IgPvsSzB3C03c/1052x563.png",
+            "width": 1052,
+            "height": 563,
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/J4vqGEwvbmdKkojO_NqkyFaxeQdOD1IgPvsSzB3C03c/619x331.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/J4vqGEwvbmdKkojO_NqkyFaxeQdOD1IgPvsSzB3C03c/600x321.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/J4vqGEwvbmdKkojO_NqkyFaxeQdOD1IgPvsSzB3C03c/196x104.png"
+              }
+            ]
+          },
+          "description": "yes cool",
+          "details": "nice"
+        },
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/GYVtRHQhqXm-Y9b4ChaGw2KXRCBGTr1qLza4jqZsLvs/1052x636.png",
+            "width": 1052,
+            "height": 636,
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/GYVtRHQhqXm-Y9b4ChaGw2KXRCBGTr1qLza4jqZsLvs/619x374.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/GYVtRHQhqXm-Y9b4ChaGw2KXRCBGTr1qLza4jqZsLvs/600x362.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/GYVtRHQhqXm-Y9b4ChaGw2KXRCBGTr1qLza4jqZsLvs/196x118.png"
+              }
+            ]
+          },
+          "clickthroughUrl": "http://fom4kfwkflm.com",
+          "description": "nice",
+          "details": "woooo"
+        },
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/_eLTnXDQbVLTiHZFeY6cUk0TNCLdwukZSDvFr4E4Ty4/838x638.png",
+            "alternateText": "extra",
+            "width": 838,
+            "height": 638,
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/_eLTnXDQbVLTiHZFeY6cUk0TNCLdwukZSDvFr4E4Ty4/619x471.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/_eLTnXDQbVLTiHZFeY6cUk0TNCLdwukZSDvFr4E4Ty4/591x450.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/_eLTnXDQbVLTiHZFeY6cUk0TNCLdwukZSDvFr4E4Ty4/196x149.png"
+              }
+            ]
+          },
+          "description": "rfkr3fm3l",
+          "details": "caption"
+        },
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/EPR2fGxAcWgH39JsM8d9fEpniwGUuTkWBgI_g7Ssn-8/1052x588.png",
+            "width": 1052,
+            "height": 588,
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/EPR2fGxAcWgH39JsM8d9fEpniwGUuTkWBgI_g7Ssn-8/619x345.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/EPR2fGxAcWgH39JsM8d9fEpniwGUuTkWBgI_g7Ssn-8/600x335.png"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/EPR2fGxAcWgH39JsM8d9fEpniwGUuTkWBgI_g7Ssn-8/196x109.png"
+              }
+            ]
+          },
+          "description": "rvkrvpiw"
+        },
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/JeNRZZikXPxjOhhbdxoEnivRpdJ_ohBYngwp8ziHDq4/834x390.jpg",
+            "width": 834,
+            "height": 390,
+            "sourceUrl": "http://www.apimages.com/Images/Ap_Creative_Stock_Header.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/JeNRZZikXPxjOhhbdxoEnivRpdJ_ohBYngwp8ziHDq4/619x289.jpg"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/JeNRZZikXPxjOhhbdxoEnivRpdJ_ohBYngwp8ziHDq4/600x280.jpg"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/JeNRZZikXPxjOhhbdxoEnivRpdJ_ohBYngwp8ziHDq4/196x91.jpg"
+              }
+            ]
+          },
+          "details": "fnb3lgfjn"
+        },
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/2MCL7U_QC6eLOFmlKNBAEMtG_ANYMddOB4h6gWQ2gP0/1280x842.jpg",
+            "width": 1280,
+            "height": 842,
+            "sourceUrl": "http://www.kiplinger.com/kipimages/pages/18048.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/2MCL7U_QC6eLOFmlKNBAEMtG_ANYMddOB4h6gWQ2gP0/619x407.jpg"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/2MCL7U_QC6eLOFmlKNBAEMtG_ANYMddOB4h6gWQ2gP0/600x394.jpg"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/2MCL7U_QC6eLOFmlKNBAEMtG_ANYMddOB4h6gWQ2gP0/196x128.jpg"
+              }
+            ]
+          },
+          "details": "4gjbn3lo"
+        },
+        {
+          "image": {
+            "url": "https://a.mktgcdn.com/p/01rnoPJSj0_Qt8p9NDWVseGV6T0h1D7cTxxv-8KT5z4/800x450.jpg",
+            "width": 800,
+            "height": 450,
+            "sourceUrl": "https://i.kym-cdn.com/entries/icons/original/000/025/155/stock.jpg",
+            "thumbnails": [
+              {
+                "url": "https://a.mktgcdn.com/p/01rnoPJSj0_Qt8p9NDWVseGV6T0h1D7cTxxv-8KT5z4/619x348.jpg"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/01rnoPJSj0_Qt8p9NDWVseGV6T0h1D7cTxxv-8KT5z4/600x337.jpg"
+              },
+              {
+                "url": "https://a.mktgcdn.com/p/01rnoPJSj0_Qt8p9NDWVseGV6T0h1D7cTxxv-8KT5z4/196x110.jpg"
+              }
+            ]
+          },
+          "clickthroughUrl": "http://ejfo3iwklf/.com",
+          "description": "4gij4pijg"
+        }
+      ],
+      "geocodedCoordinate": { "latitude": 40.7471, "longitude": -73.98947 },
+      "googleAccountId": "109246389528522575311",
+      "googleCoverPhoto": {
+        "url": "https://a.mktgcdn.com/p/v_Lf0ct4dnMfFAFGp2OoiVJ1W1IPRZQ58f8NcuCjgII/940x528.png",
+        "width": 940,
+        "height": 528,
+        "sourceUrl": "http://a.mktgcdn.com/p/cCDknOLbSuIVzsWkzbYCcxEIPOk1fkB1l0xjYizXyuE/940x627.png"
+      },
+      "googleProfilePhoto": {
+        "url": "https://a.mktgcdn.com/p/TuqymnLCGm4NWXEV31jM95aX6s1IvKVgJR6A4yvIJPY/3455x3455.jpg",
+        "width": 3455,
+        "height": 3455,
+        "sourceUrl": "http://a.mktgcdn.com/p/TuqymnLCGm4NWXEV31jM95aX6s1IvKVgJR6A4yvIJPY/3455x3455.jpg",
+        "thumbnails": [
+          {
+            "url": "https://a.mktgcdn.com/p/TuqymnLCGm4NWXEV31jM95aX6s1IvKVgJR6A4yvIJPY/500x500.jpg",
+            "width": 500,
+            "height": 500
+          }
+        ]
+      },
+      "isoRegionCode": "NY",
+      "mainPhone": "+17186463251",
+      "paymentOptions": ["AMERICANEXPRESS", "CASH", "PAYPAL", "VISA"],
+      "rankTrackingFrequency": "QUARTERLY",
+      "routableCoordinate": {
+        "latitude": 40.7471956986897,
+        "longitude": -73.9893993033235
+      },
+      "timezone": "America/New_York",
+      "yextDisplayCoordinate": {
+        "latitude": 40.74706255873712,
+        "longitude": -73.98942937711249
+      },
+      "yextRoutableCoordinate": {
+        "latitude": 40.74715793763683,
+        "longitude": -73.9894148170698
+      },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "anWxPk",
+        "id": "2880336690526295013",
+        "timestamp": "2022-07-12T14:05:43",
+        "labels": ["98773"],
+        "folderId": "329471",
+        "language": "en",
+        "countryCode": "US",
+        "entityType": "location"
+      },
+      "categoryIds": ["818"],
+      "reviewGenerationUrl": "https://www.leavefeedback.app/tp/0zmjRr",
+      "firstPartyReviewPage": "https://www.leavefeedback.app/survey/0zmjRr",
+      "timeZoneUtcOffset": "-04:00"
+    },
+    {
+      "additionalHoursText": "We have additional hours",
+      "address": {
+        "line1": "Sir Matt Busby Way",
+        "sublocality": "Stretford",
+        "city": "Manchester",
+        "region": "GB",
+        "postalCode": "M16 0RA",
+        "countryCode": "GB"
+      },
+      "addressHidden": false,
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/500x500.jpg",
+          "width": 500,
+          "height": 500,
+          "sourceUrl": "http://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/500x500.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/bNUzIj6wVRg1TVU8FyChIiJcsE3Rl9aiVHmIFkLuzNg/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        }
+      },
+      "name": "Old Trafford",
+      "cityCoordinate": {
+        "latitude": 53.4795913696289,
+        "longitude": -2.24873995780945
+      },
+      "c_customField1": "On",
+      "c_customField2": "www.drive.google.com/event/eventsheeturl",
+      "featuredMessage": {
+        "description": "Step Inside The Legend",
+        "url": "http://www.manutd.com/en/Visit-Old-Trafford/Museum-And-Stadium-Tour/Stadium-Tour.aspx"
+      },
+      "googleAccountId": "109246389528522575311",
+      "isoRegionCode": "TRF",
+      "mainPhone": "+441618688000",
+      "rankTrackingEnabled": true,
+      "rankTrackingFrequency": "MONTHLY",
+      "rankTrackingKeywords": ["NAME", "PRIMARY_CATEGORY"],
+      "rankTrackingSites": ["GOOGLE_DESKTOP", "GOOGLE_MOBILE"],
+      "timezone": "Europe/London",
+      "yextDisplayCoordinate": {
+        "latitude": 53.4629485,
+        "longitude": -2.288996
+      },
+      "yextRoutableCoordinate": { "latitude": 53.46181, "longitude": -2.28837 },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "MEXQy0",
+        "id": "Man-U",
+        "timestamp": "2020-06-05T14:37:12",
+        "labels": ["98773"],
+        "folderId": "273284",
+        "language": "en_GB",
+        "countryCode": "GB",
+        "entityType": "location"
+      },
+      "categoryIds": ["2191"],
+      "reviewGenerationUrl": "https://www.leavefeedback.app/tp/5lDmnz",
+      "firstPartyReviewPage": "https://www.leavefeedback.app/survey/5lDmnz",
+      "timeZoneUtcOffset": "+01:00"
+    },
+    {
+      "address": {
+        "line1": "2302 W Northern Ave ",
+        "city": "Phoenix",
+        "region": "AZ",
+        "postalCode": "85021",
+        "countryCode": "US"
+      },
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/-YIQQxsSSuEajpHJvm5M8LAQccb94x_81qld8nBcupA/600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "sourceUrl": "http://theleadernews.com/wp-content/uploads/2016/11/Chase.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-YIQQxsSSuEajpHJvm5M8LAQccb94x_81qld8nBcupA/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-YIQQxsSSuEajpHJvm5M8LAQccb94x_81qld8nBcupA/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        }
+      },
+      "name": "Test Business",
+      "cityCoordinate": { "latitude": 33.448263, "longitude": -112.073821 },
+      "bios": { "ids": ["1192033"] },
+      "menus": { "ids": ["821652", "1185965"] },
+      "featuredMessage": { "description": "Call Today" },
+      "geocodedCoordinate": { "latitude": 33.5536, "longitude": -112.10878 },
+      "isoRegionCode": "AZ",
+      "mainPhone": "+16025287367",
+      "rankTrackingCompetitors": [
+        {
+          "name": "Bank of America",
+          "website": "https://www.bankofamerica.com/"
+        },
+        { "name": "Wells Fargo", "website": "https://www.wellsfargo.com/" },
+        {
+          "name": "US Bancorp",
+          "website": "https://www.usbank.com/index.html"
+        },
+        {
+          "name": "Citibank",
+          "website": "https://online.citi.com/US/login.do"
+        },
+        {
+          "name": "PNC",
+          "website": "https://www.pnc.com/en/personal-banking.html"
+        }
+      ],
+      "rankTrackingEnabled": true,
+      "rankTrackingFrequency": "WEEKLY",
+      "timezone": "America/Phoenix",
+      "yextDisplayCoordinate": { "latitude": 33.5536, "longitude": -112.10878 },
+      "yextRoutableCoordinate": {
+        "latitude": 33.5531172773392,
+        "longitude": -112.108775975252
+      },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "mrZdM7",
+        "id": "1",
+        "timestamp": "2021-10-28T17:08:32",
+        "folderId": "273283",
+        "language": "en",
+        "countryCode": "US",
+        "entityType": "location"
+      },
+      "categoryIds": ["1091"],
+      "timeZoneUtcOffset": "-07:00"
+    },
+    {
+      "address": {
+        "line1": "1 California Blvd",
+        "city": "San Francisco",
+        "region": "CA",
+        "postalCode": "94111",
+        "countryCode": "US"
+      },
+      "addressHidden": false,
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/-YIQQxsSSuEajpHJvm5M8LAQccb94x_81qld8nBcupA/600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "sourceUrl": "http://theleadernews.com/wp-content/uploads/2016/11/Chase.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-YIQQxsSSuEajpHJvm5M8LAQccb94x_81qld8nBcupA/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-YIQQxsSSuEajpHJvm5M8LAQccb94x_81qld8nBcupA/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        }
+      },
+      "name": "Test Business",
+      "cityCoordinate": { "latitude": 37.775196, "longitude": -122.419204 },
+      "displayCoordinate": { "latitude": 37.793534, "longitude": -122.397317 },
+      "bios": { "ids": ["1192033"] },
+      "menus": { "ids": ["821652", "1185965"] },
+      "featuredMessage": { "description": "Call Today" },
+      "geocodedCoordinate": { "latitude": 37.793534, "longitude": -122.397317 },
+      "isoRegionCode": "CA",
+      "mainPhone": "+14153962779",
+      "rankTrackingCompetitors": [
+        {
+          "name": "Bank of America",
+          "website": "https://www.bankofamerica.com/"
+        },
+        { "name": "Wells Fargo", "website": "https://www.wellsfargo.com/" },
+        {
+          "name": "US Bancorp",
+          "website": "https://www.usbank.com/index.html"
+        },
+        {
+          "name": "Citibank",
+          "website": "https://online.citi.com/US/login.do"
+        },
+        {
+          "name": "PNC",
+          "website": "https://www.pnc.com/en/personal-banking.html"
+        }
+      ],
+      "rankTrackingEnabled": true,
+      "rankTrackingFrequency": "WEEKLY",
+      "routableCoordinate": { "latitude": 37.793534, "longitude": -122.397317 },
+      "timezone": "America/Los_Angeles",
+      "yextDisplayCoordinate": {
+        "latitude": 37.793534,
+        "longitude": -122.397317
+      },
+      "yextRoutableCoordinate": {
+        "latitude": 37.793534,
+        "longitude": -122.397317
+      },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "qj30Wg",
+        "id": "2",
+        "timestamp": "2021-10-28T17:08:32",
+        "folderId": "273283",
+        "language": "en",
+        "countryCode": "US",
+        "entityType": "location"
+      },
+      "categoryIds": ["1091"],
+      "timeZoneUtcOffset": "-07:00"
+    },
+    {
+      "address": {
+        "line1": "4720 S Eastern Ave ",
+        "city": "Las Vegas",
+        "region": "NV",
+        "postalCode": "89119",
+        "countryCode": "US"
+      },
+      "logo": {
+        "image": {
+          "url": "https://a.mktgcdn.com/p/-YIQQxsSSuEajpHJvm5M8LAQccb94x_81qld8nBcupA/600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "sourceUrl": "http://theleadernews.com/wp-content/uploads/2016/11/Chase.jpg",
+          "thumbnails": [
+            {
+              "url": "https://a.mktgcdn.com/p/-YIQQxsSSuEajpHJvm5M8LAQccb94x_81qld8nBcupA/150x150.jpg",
+              "width": 150,
+              "height": 150
+            },
+            {
+              "url": "https://a.mktgcdn.com/p/-YIQQxsSSuEajpHJvm5M8LAQccb94x_81qld8nBcupA/94x94.jpg",
+              "width": 94,
+              "height": 94
+            }
+          ]
+        }
+      },
+      "name": "Test Business really long name really long name really long name really long name really long name really long name really long name really long name really long name really long name",
+      "cityCoordinate": { "latitude": 36.233048, "longitude": -115.246776 },
+      "bios": { "ids": ["1192033"] },
+      "menus": { "ids": ["821652", "1185965"] },
+      "featuredMessage": { "description": "Call Today" },
+      "geocodedCoordinate": { "latitude": 36.10325, "longitude": -115.11855 },
+      "isoRegionCode": "NV",
+      "mainPhone": "+17024584830",
+      "rankTrackingCompetitors": [
+        {
+          "name": "Bank of America",
+          "website": "https://www.bankofamerica.com/"
+        },
+        { "name": "Wells Fargo", "website": "https://www.wellsfargo.com/" },
+        {
+          "name": "US Bancorp",
+          "website": "https://www.usbank.com/index.html"
+        },
+        {
+          "name": "Citibank",
+          "website": "https://online.citi.com/US/login.do"
+        },
+        {
+          "name": "PNC",
+          "website": "https://www.pnc.com/en/personal-banking.html"
+        }
+      ],
+      "rankTrackingEnabled": true,
+      "rankTrackingFrequency": "WEEKLY",
+      "timezone": "America/Los_Angeles",
+      "yextDisplayCoordinate": {
+        "latitude": 36.10325,
+        "longitude": -115.11855
+      },
+      "yextRoutableCoordinate": {
+        "latitude": 36.1032448415248,
+        "longitude": -115.119004393634
+      },
+      "meta": {
+        "accountId": "1283278",
+        "uid": "wx0g5G",
+        "id": "3",
+        "timestamp": "2021-10-28T17:08:32",
+        "folderId": "273283",
+        "language": "en",
+        "countryCode": "US",
+        "entityType": "location"
+      },
+      "categoryIds": ["1091"],
+      "timeZoneUtcOffset": "-07:00"
+    }
+  ],
+  "count": 2250,
+  "pageToken": "jjf1PHYhpg2uEe72G9ksEWdTqlj4hvn_DEfou8frbT8Kr9HLjoWYgCT3rOeOtAfpHIrT0LWWaBui0vPDVKCActWYPjPssUf7KbmYre-gmbHrieuVTPi5fHZoH-bKIlrj"
+}
